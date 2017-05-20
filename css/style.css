@@ -126,11 +126,11 @@ span.menu{
 	font-size: 5em;
     color: #fff;
     line-height: 1.3;
-	transform: rotate(120deg);
-	-webkit-transform: rotate(120deg);
-	-moz-transform: rotate(120deg);
-	-o-transform: rotate(120deg);
-	-ms-transform: rotate(120deg);
+	transform: rotate(315deg);
+	-webkit-transform: rotate(315deg);
+	-moz-transform: rotate(315deg);
+	-o-transform: rotate(315deg);
+	-ms-transform: rotate(315deg);
 }
 .w3ls_banner_info h3{
 	margin: 2em 0;
