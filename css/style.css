@@ -373,7 +373,7 @@ p.nostrud{
    left: 0;
 }
 .view img {
-   display: block;
+   display: inline-block;
    position: relative;
 }
 .view h5 {
@@ -1279,7 +1279,7 @@ div#myTabContent {
 		margin: 0 auto;
 	}
 	.agile_team_grid {
-		float: center;
+		float: left;
 		width: 50%;
 	}
 	.agile_team_grid:nth-child(2) {
