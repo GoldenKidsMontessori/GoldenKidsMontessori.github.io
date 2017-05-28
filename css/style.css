@@ -847,7 +847,7 @@ div#myTabContent {
 	margin:0 auto;
 }
 .tabcontent-grids img,.team-grid img {
-	margin: 0 auto;
+	margin: auto auto;
     padding: .4em;
     box-shadow: 0px 0px 5px #C7C7C7;
     border-radius: 50%;
