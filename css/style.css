@@ -1288,6 +1288,7 @@ div#myTabContent {
 	.view, .view .mask, .view .content {
 		width: 270px;
 		height: 315px;
+    display: -webkit-inline-box
 		margin: 0 auto;
 	}
 	.view h5 {
