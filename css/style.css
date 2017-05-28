@@ -1282,7 +1282,7 @@ div#myTabContent {
 		float: center;
 		width: 50%;
 	}
-	.agile_team_grid:nth-child(2) {
+	.agile_team_grid:nth-child(1) {
 		margin-bottom:3em;
 	}
 	.view, .view .mask, .view .content {
